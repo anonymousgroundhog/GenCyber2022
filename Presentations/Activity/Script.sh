@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mv Ant-Man ~/Desktop/
 mv Aquaman ~/Desktop/
 
